@@ -828,6 +828,18 @@ button {
      #open h1 {
           margin-bottom: 25%;
      }
+     
+     #overlay {
+          height: 100%;
+          position: fixed;
+          background-color: black;
+          top: -5%;
+          width: 100%;
+     }
+
+     #progres {
+          top: 3%;
+     }
 
      #in {
           height: 7%;
