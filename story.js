@@ -17,12 +17,12 @@ var arr = [
 ];
 
 var arr1 = [
-     { reel: "/video/video1.mp4" },
-     { reel: "/video/video2.mp4" },
-     { reel: "/video/video3.mp4" },
-     { reel: "/video/video4.mp4" },
-     { reel: "/video/video6.mp4" },
-     { reel: "/video/video7.mp4" }
+     { reel: "video/video1.mp4" },
+     { reel: "video/video2.mp4" },
+     { reel: "video/video3.mp4" },
+     { reel: "video/video4.mp4" },
+     { reel: "video/video6.mp4" },
+     { reel: "video/video7.mp4" }
 ]
 
 var reel12 = ""
